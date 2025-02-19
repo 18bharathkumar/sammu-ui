@@ -1,9 +1,8 @@
+
 # Sammu-UI
 
 ![Sammu-UI](https://img.shields.io/npm/v/sammu-ui?style=flat-square)
-![license](https://img.shields.io/github/license/bharathms/my-ui-library-ts?style=flat-square)
-![issues](https://img.shields.io/github/issues/bharathms/my-ui-library-ts?style=flat-square)
-![contributors](https://img.shields.io/github/contributors/bharathms/my-ui-library-ts?style=flat-square)
+
 
 ## A Simple, Customizable UI Library
 
@@ -25,15 +24,15 @@ Check out a live demo of the components here: [Sammu-UI Demo](#)
 
 To install **Sammu-UI**, run the following command:
 
-```bash
+\`\`\`bash
 npm install sammu-ui
-```
+\`\`\`
 
 ## Usage
 
 Import the components into your React project and start building beautiful UIs:
 
-```tsx
+\`\`\`tsx
 import { Loader, Form } from 'sammu-ui';
 
 const App = () => (
@@ -42,23 +41,19 @@ const App = () => (
     <Form />
   </div>
 );
-```
+\`\`\`
 
 ## Contributing
 
 We welcome contributions from the community! To get started:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit them (`git commit -m 'Add a new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
+2. Create a new branch (\`git checkout -b feature-branch\`)
+3. Make your changes and commit them (\`git commit -m 'Add a new feature'\`)
+4. Push to the branch (\`git push origin feature-branch\`)
 5. Open a Pull Request
 
-Please make sure to follow our [Code of Conduct](./CODE_OF_CONDUCT.md) and review the [Contributing Guidelines](./CONTRIBUTING.md) before contributing.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-
-
