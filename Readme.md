@@ -32,7 +32,7 @@ npm install sammu-ui
 
 Import the components into your React project and start building beautiful UIs:
 
-\`\`\`tsx
+```tsx
 import { Loader, Form } from 'sammu-ui';
 
 const App = () => (
@@ -41,7 +41,7 @@ const App = () => (
     <Form />
   </div>
 );
-\`\`\`
+```
 
 ## Contributing
 
