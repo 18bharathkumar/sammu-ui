@@ -24,9 +24,9 @@ Check out a live demo of the components here: [Sammu-UI Demo](#)
 
 To install **Sammu-UI**, run the following command:
 
-\`\`\`bash
+```bash
 npm install sammu-ui
-\`\`\`
+```
 
 ## Usage
 
