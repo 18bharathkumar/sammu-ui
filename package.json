@@ -1,0 +1,29 @@
+{
+  "name": "sammu-ui",
+  "version": "1.0.0",
+  "description": "UI component library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Bharath",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharathms/my-ui-library-ts.git"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
